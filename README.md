@@ -17,10 +17,10 @@ This project focuses on performing Exploratory Data Analysis (EDA) on Amazon sal
 - What patterns can be observed in customer purchasing behaviour(order quantities, frequency)?
 - What relationships exist between sales and quantity?
 
-## 🧹Data Cleaning
-- Handled missing values
+## 🧹Data Cleaning Steps
+- Handled missing and incorrect values
 - Removed duplicates
-- Converted date columns
+- Converted date columns to appropriate formats for analysis
 - Ensured correct data types across all columns.
 
 ➢KEY TRENDS DISCOVERED
