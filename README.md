@@ -1,5 +1,27 @@
-## Amazon Sales Performance Analysis Report
-This analysis explored 50,000 Amazon sales transactions spanning January 2022 to November  2023, covering six product categories across four global regions. The dataset included pricing,  discounts, quantity sold, and total revenue. Key metrics, trends, and relationships were examined  to surface actionable business insights. 
+#📊Amazon Sales Performance Analysis Report
+This project analyses over 50,000 Amazon sales transactions spanning January 2022 to November  2023, covering six product categories across four global regions. The dataset includes pricing,  discounts, quantity sold, and total revenue with the objective of uncovering actionable business insights and performance trends.
+
+##Overview
+This project focuses on performing Exploratory Data Analysis (EDA) on Amazon sales data using Python. The analysis identifies key patterns in sales performance, revenue distribution, and customer behaviour, with insights communicated through clear and effective data visualisations.
+
+##📌Objectives
+- Analyse sales performance across regions, categories, and time periods
+- Identify key revenue drivers and high-performing product segments.
+- Uncover trends and patterns in customer purchasing behaviour.
+- Provide data-driven insights to support business decision-making.
+
+##❓Business Questions
+- What is the overall sales performance in terms of total revenue and quantity sold?
+- How do sales trends evolve over time (monthly and yearly patterns)?
+- Which product categories generate the highest revenue?
+- What patterns can be observed in customer purchasing behaviour(order quantities, frequency)?
+- What relationships exist between sales and quantity?
+
+##🧹Data Cleaning
+- Handled missing values
+- Removed duplicates
+- Converted date columns
+- Ensured correct data types across all columns.
 
 ➢KEY TRENDS DISCOVERED
 1. Overall Performance: 
@@ -13,7 +35,7 @@ in February 2023. Sales recovered through mid-2023, then declined again toward y
 irregular pattern suggests revenue is driven by seasonal demand or promotional activity rather 
 than steady organic growth.
 
-3. Category Performance:
+3. Category Performance:🛠🔍📸💻📉📈
 All six product categories performed within a narrow revenue band. Beauty led with $5,550,625, 
 followed by Books ($5,484,863), Fashion ($5,480,123), Home & Kitchen ($5,473,133), 
 Electronics ($5,470,594), and Sports at the bottom with $5,407,236. The gap between the highest 
