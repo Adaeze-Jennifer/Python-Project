@@ -61,18 +61,18 @@ moderate score confirms that price per unit and discount levels also significant
 revenue outcomes.
 
 ## BUSINESS IMPLICATIONS
-Diversification is a strength but also a risk. The near-equal performance across all categories 
+- Diversification is a strength but also a risk. The near-equal performance across all categories 
 and regions means no single segment can be relied upon as a growth engine. The business needs 
 a deliberate strategy to identify and accelerate its highest-potential segment. 
 
-Seasonal volatility requires attention. The sharp dips in February 2022 and February 2023 
+- Seasonal volatility requires attention. The sharp dips in February 2022 and February 2023 
 suggest a recurring post-peak slowdown. Targeted promotions or inventory adjustments during 
 low periods could smooth revenue fluctuations. 
 
-Pricing strategy matters more than volume. Since quantity sold only moderately predicts 
+- Pricing strategy matters more than volume. Since quantity sold only moderately predicts 
 revenue (0.59), optimising price points and discount strategies will have a greater impact on 
 revenue growth than simply pushing for more units sold. 
 
-Europe and Asia are growth opportunities. Both regions trail the Middle East and North 
+- Europe and Asia are growth opportunities. Both regions trail the Middle East and North 
 America by a narrow margin. Targeted regional campaigns could close this gap and meaningfully 
 lift overall revenue.
