@@ -88,5 +88,5 @@ America by a narrow margin. Targeted regional campaigns could close this gap and
 lift overall revenue.
 
 ## File Structure 
-- [Amazon Sales Performance Analysis.ipynb](https://github.com/Adaeze-Jennifer/amazon-performance-sales-analysis/blob/main/Amazon-Sales-Performance-Analysis-Python.ipynb) - Main Python notebook with the analysis.
+- [Amazon Sales Performance Analysis](Amazon-Sales-Performance-Analysis-Python) - Main Python notebook with the analysis.
 - [READM.md](README.md) - Project Overview and Documentation
