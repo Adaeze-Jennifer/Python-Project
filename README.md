@@ -89,4 +89,4 @@ lift overall revenue.
 
 ## 📒Project Notebook 
 - [View Full Analysis ](https://github.com/Adaeze-Jennifer/Amazon-Sales-Performance-Analysis/blob/main/AMAZON%20SALES%20PERFORMANCE%20-%20PYTHON.ipynb) - This notebook presents a comprehensive analysis of Amazon sales data using Python.
-- [(README.md](https://github.com/Adaeze-Jennifer/Amazon-Sales-Performance-Analysis/blob/main/README.md) - Project Overview and Documentation
+- [Back to Top](https://github.com/Adaeze-Jennifer/Amazon-Sales-Performance-Analysis/blob/main/README.md) - Project Overview and Documentation
